@@ -1,0 +1,20 @@
+{"index":1,"event_time":"2023-10-29T17:18:00.330140","event_name":"New Listing","user":702,"make":"Toyota","name":"Highlander","year":"2019","mileage":18518,"price":19564,"dealer_rating":1}
+{"index":2,"event_time":"2023-10-29T17:18:00.330140","event_name":"New Listing","user":7608,"make":"Toyota","name":"Tacoma","year":"2013","mileage":191412,"price":30109,"dealer_rating":4}
+{"index":3,"event_time":"2023-10-29T17:18:00.330140","event_name":"New Listing","user":6784,"make":"Toyota","name":"Rav4","year":"2016","mileage":148852,"price":15652,"dealer_rating":4}
+{"index":4,"event_time":"2023-10-29T17:18:00.330140","event_name":"New Listing","user":2091,"make":"Toyota","name":"Tacoma","year":"2018","mileage":186409,"price":33829,"dealer_rating":1}
+{"index":5,"event_time":"2023-10-29T17:18:00.330140","event_name":"Sold","user":7503,"make":"Toyota","name":"Tundra","year":"2016","mileage":179567,"price":33300,"dealer_rating":4}
+{"index":6,"event_time":"2023-10-29T17:18:00.330140","event_name":"New Listing","user":5084,"make":"Toyota","name":"Rav4","year":"2016","mileage":271522,"price":20915,"dealer_rating":4}
+{"index":48,"event_time":"2023-10-29T17:18:00.334836","event_name":"New Listing","user":4763,"make":"Toyota","name":"Tundra","year":"2015","mileage":85239,"price":71945,"dealer_rating":5}
+{"index":49,"event_time":"2023-10-29T17:18:00.334836","event_name":"New Listing","user":7252,"make":"Toyota","name":"4Runner","year":"2013","mileage":122609,"price":15704,"dealer_rating":2}
+{"index":50,"event_time":"2023-10-29T17:18:00.334836","event_name":"New Listing","user":8251,"make":"Toyota","name":"Highlander","year":"2023","mileage":106729,"price":43862,"dealer_rating":5}
+{"index":51,"event_time":"2023-10-29T17:18:00.334836","event_name":"New Listing","user":2333,"make":"Toyota","name":"Tacoma","year":"2023","mileage":200868,"price":30684,"dealer_rating":4}
+{"index":52,"event_time":"2023-10-29T17:18:00.334836","event_name":"New Listing","user":8557,"make":"Toyota","name":"Tacoma","year":"2020","mileage":37897,"price":11102,"dealer_rating":3}
+{"index":53,"event_time":"2023-10-29T17:18:00.334836","event_name":"New Listing","user":4311,"make":"Toyota","name":"Tacoma","year":"2020","mileage":146080,"price":60136,"dealer_rating":2}
+{"index":54,"event_time":"2023-10-29T17:18:00.334836","event_name":"Sold","user":6456,"make":"Toyota","name":"Tundra","year":"2020","mileage":80846,"price":71072,"dealer_rating":3}
+{"index":55,"event_time":"2023-10-29T17:18:00.334836","event_name":"New Listing","user":2047,"make":"Toyota","name":"Tundra","year":"2020","mileage":46399,"price":20153,"dealer_rating":3}
+{"index":84,"event_time":"2023-10-29T17:18:00.338047","event_name":"New Listing","user":7318,"make":"Toyota","name":"4Runner","year":"2021","mileage":121041,"price":29027,"dealer_rating":5}
+{"index":85,"event_time":"2023-10-29T17:18:00.338047","event_name":"New Listing","user":4383,"make":"Toyota","name":"Highlander","year":"2023","mileage":216588,"price":53975,"dealer_rating":1}
+{"index":86,"event_time":"2023-10-29T17:18:00.338047","event_name":"New Listing","user":4803,"make":"Toyota","name":"Venza","year":"2015","mileage":63619,"price":40367,"dealer_rating":4}
+{"index":87,"event_time":"2023-10-29T17:18:00.338047","event_name":"New Listing","user":4930,"make":"Toyota","name":"Rav4","year":"2018","mileage":92227,"price":73753,"dealer_rating":2}
+{"index":88,"event_time":"2023-10-29T17:18:00.338047","event_name":"New Listing","user":1630,"make":"Toyota","name":"Rav4","year":"2017","mileage":206074,"price":54062,"dealer_rating":2}
+{"index":89,"event_time":"2023-10-29T17:18:00.338047","event_name":"New Listing","user":3716,"make":"Toyota","name":"Tundra","year":"2015","mileage":179500,"price":74110,"dealer_rating":5}

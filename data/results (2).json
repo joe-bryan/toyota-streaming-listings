@@ -1,0 +1,7 @@
+{"index":7,"event_time":"2023-10-29T17:18:00.330871","event_name":"New Listing","user":7566,"make":"Toyota","name":"Tacoma","year":"2020","mileage":139077,"price":50379,"dealer_rating":3}
+{"index":8,"event_time":"2023-10-29T17:18:00.330871","event_name":"New Listing","user":8985,"make":"Toyota","name":"4Runner","year":"2017","mileage":195963,"price":48835,"dealer_rating":5}
+{"index":9,"event_time":"2023-10-29T17:18:00.330871","event_name":"New Listing","user":8375,"make":"Toyota","name":"Tundra","year":"2017","mileage":168808,"price":55661,"dealer_rating":5}
+{"index":10,"event_time":"2023-10-29T17:18:00.330871","event_name":"New Listing","user":206,"make":"Toyota","name":"Tundra","year":"2017","mileage":208170,"price":45679,"dealer_rating":2}
+{"index":46,"event_time":"2023-10-29T17:18:00.334536","event_name":"Sold","user":5789,"make":"Toyota","name":"Tacoma","year":"2016","mileage":14530,"price":68166,"dealer_rating":5}
+{"index":47,"event_time":"2023-10-29T17:18:00.334664","event_name":"Sold","user":3148,"make":"Toyota","name":"4Runner","year":"2013","mileage":109273,"price":49495,"dealer_rating":2}
+{"index":90,"event_time":"2023-10-29T17:18:00.338576","event_name":"Sold","user":6803,"make":"Toyota","name":"Tundra","year":"2023","mileage":19325,"price":29091,"dealer_rating":2}
