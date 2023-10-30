@@ -1,0 +1,26 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: >
+  Firehose resources for Firehose stream into S3.
+  Repository - https://github.com/joe-bryan/streaming-toyota-listings.
+
+Parameters:
+  Environment:
+    AllowedValues:
+      - developing
+      - production
+    Description: Target environment
+    Type: String
+    Default: 'developing'
+
+Resources:
+  KinesisStream:
+    Type: AWS::Kinesis::Stream
+    Properties: 
+      Name: !Sub 'toyota-data-stream-${Environment}'
+      RetentionPeriodHours: 24
+      StreamModeDetails:
+        StreamMode: ON_DEMAND
+      Tags: 
+        -
+          Key: Environment
+          Value: Development

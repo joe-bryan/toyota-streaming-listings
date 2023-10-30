@@ -1,0 +1,1 @@
+aws cloudformation deploy --template-file kinesis-stream.yaml --stack-name kinesis-streaming --capabilities CAPABILITY_IAM --parameter-overrides "Environment"=developing

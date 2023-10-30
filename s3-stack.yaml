@@ -1,0 +1,31 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: AWS S3 data lake stack for Toyota listings.
+
+Parameters:
+ SourceDataBucketName:
+    Description: Bucket for lambda with source data file and a lifecycle configuration.
+    Type: String
+    Default: 'streamingdatalake.staging.aws'
+ 
+Resources:
+ DatalakeBucket:
+   Type: 'AWS::S3::Bucket'
+   DeletionPolicy: Retain
+   Properties:
+     BucketName:
+       Ref: SourceDataBucketName
+     VersioningConfiguration:
+       Status: Enabled
+     PublicAccessBlockConfiguration:
+       BlockPublicAcls: true
+       BlockPublicPolicy: true
+       IgnorePublicAcls: true
+       RestrictPublicBuckets: true
+     LifecycleConfiguration:
+       Rules:
+         - Id: DataBucketRule
+           Status: Enabled
+           ExpirationInDays: 365
+           Transitions:
+             - TransitionInDays: 120
+               StorageClass: GLACIER
